@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.pyc": true,
+        "**/__pycache__": true
+    },
+    "python.pipenvPath": "pipenv",
+    "python.pythonPath": "C:\\Users\\david\\.virtualenvs\\DS4_magic_keyboard--sLN2h52\\Scripts\\python.exe"
+}
