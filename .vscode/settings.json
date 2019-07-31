@@ -9,5 +9,20 @@
         "**/__pycache__": true
     },
     "python.pipenvPath": "pipenv",
-    "python.pythonPath": "C:\\Users\\david\\.virtualenvs\\DS4_magic_keyboard--sLN2h52\\Scripts\\python.exe"
+    "python.pythonPath": "/home/osboxes/.virtualenvs/magic-keyboard-UOa2Xq_Z/bin/python",
+    "editor.formatOnSave": true,
+    "python.formatting.autopep8Args": [
+        "--max-line-length",
+        "120",
+        "--experimental"
+    ],
+    "python.linting.pep8Enabled": true,
+    "python.linting.pylintPath": "pylint",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.pep8Args": [
+        "--ignore=E501"
+    ],
 }
